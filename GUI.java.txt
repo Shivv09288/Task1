@@ -31,9 +31,6 @@ alphaButton.addActionListener(alphaListener);
 betaButton.addActionListener(betaListener);
 // Add the buttonsto the panel
 panel.add(alphaButton);
-ISE DEPARTMENT
-Advance Java Lab Manual BIS402
-11
 panel.add(betaButton);
 // Add the panel to the frame
 frame.getContentPane().add(panel, BorderLayout.CENTER);
